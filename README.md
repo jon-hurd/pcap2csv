@@ -1,3 +1,5 @@
+Modified for use with WiFi/802.11 pcaps
+
 # pcap2csv
 Use PyShark and scapy to read fields from a pcap file and populate a CSV
 
